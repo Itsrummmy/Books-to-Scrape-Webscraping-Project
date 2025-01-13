@@ -132,19 +132,3 @@ df = pd.DataFrame(books)
 df.to_csv("books.csv", index=False)
 
 print("Data saved to books.csv")
-
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
-
-site = 'https://books.toscrape.com/catalogue/sharp-objects_997/index.html'
-response = requests.get(site)
-soup = BeautifulSoup(response.text, 'html.parser')
-
-pde = soup.findAll('p')
-pde
-
-text = pde[3].get_text()
-
-first_sentence = text[:text.index('.') + 1]
-first_sentence
