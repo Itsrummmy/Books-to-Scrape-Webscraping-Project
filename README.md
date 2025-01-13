@@ -30,8 +30,6 @@
 
 To develop a Python-based web scraping solution to extract comprehensive data for all books listed on the target website - (Books to Scrape)[https://books.toscrape.com/index.html]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- Tools Used -->
 ## Tools Used
