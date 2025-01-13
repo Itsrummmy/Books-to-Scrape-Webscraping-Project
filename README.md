@@ -28,7 +28,7 @@
 <!-- PROJECT OVERVIEW -->
 ## Project Overview
 
-To develop a Python-based web scraping solution to extract comprehensive data for all books listed on the target website - (Books to Scrape)[https://books.toscrape.com/index.html]
+To develop a Python-based web scraping solution to extract comprehensive data for all books listed on the target website - [Books to Scrape](https://books.toscrape.com/index.html)
 
 
 <!-- Tools Used -->
