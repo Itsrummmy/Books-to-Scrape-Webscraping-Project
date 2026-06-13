@@ -67,7 +67,7 @@ Successfully extracted and compiled a comprehensive dataset of all 1000 books av
 
 
 <!-- Conclusion -->
-## Conclusion
+## Conclusion 
 
 This project successfully demonstrated the ability to effectively scrape and extract comprehensive data from a target website using Python and the Beautiful Soup library.
 
